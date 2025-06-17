@@ -1,0 +1,21 @@
+body{
+    background:url("https://tse1.explicit.bing.net/th/id/OIP.QJalc-kY4Occg1_6IbhIrAHaE7?r=0&rs=1&pid=ImgDetMain" )no-repeat;
+    background-color: black;
+    color:aliceblue;
+}
+h1{
+    color:aquamarine;
+}
+#escolhaseuvidro{
+    margin:200px 0 0 800px;
+   
+    font-weight: 900;
+}
+#escolha1,#submit {
+        font-size: 40px;
+         
+}
+#tit{
+    color:aquamarine;
+    font-size: 30px;
+}
